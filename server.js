@@ -43,11 +43,10 @@ app.get('/', (req, res) => {
     });
 });
 
-// API Routes - Use the route files
+// API Routes
 app.use('/api/v1/builds', buildsRouter);
 app.use('/api/v1/guides', guidesRouter);
 
-// Export DAOs for use in route files later
 export { db, BuildsDAO, GuidesDAO };
 
 // Start server
