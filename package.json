@@ -1,0 +1,31 @@
+{
+  "name": "tarnished-backend",
+  "version": "1.0.0",
+  "description": "backend tarnished tactics",
+  "keywords": [
+    "elden-ring",
+    "gaming",
+    "api"
+  ],
+  "homepage": "https://github.com/samhull99/CS5610-WebDev-Summer25-tarnished-tactics-backend#readme",
+  "bugs": {
+    "url": "https://github.com/samhull99/CS5610-WebDev-Summer25-tarnished-tactics-backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samhull99/CS5610-WebDev-Summer25-tarnished-tactics-backend.git"
+  },
+  "license": "ISC",
+  "author": "Samuel Hull",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "mongodb": "^6.18.0"
+  }
+}
