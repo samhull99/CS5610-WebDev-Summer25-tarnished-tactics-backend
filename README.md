@@ -4,8 +4,7 @@ Deployed backend:
 https://tarnished-tactics-backend.uc.r.appspot.com/
 
 API STRUCTURE
-- Express.js server with MongoDB integration
-- RESTful API endpoints for builds and guides
+- API endpoints for builds and guides
 - Proper error handling and validation
 
 DATABASE
@@ -27,6 +26,5 @@ DEPLOYMENT
 DATA ACCESS LAYER
 - BuildsDAO and GuidesDAO classes
 - Proper MongoDB query handling
-- User-based data filtering
 
 STATUS: Production backend serving live data to frontend
