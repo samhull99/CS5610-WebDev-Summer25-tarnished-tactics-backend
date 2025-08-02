@@ -2,3 +2,7 @@ node_modules
 .env
 .DS_Store
 build
+.gitignore
+.gcloudignore
+yarn.lock
+app.yaml
