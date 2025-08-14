@@ -1,6 +1,7 @@
 # Tarnished Tactics Backend - Comprehensive Feature Overview
 
 **Deployed Backend:** https://tarnished-tactics-backend.uc.r.appspot.com/
+**Please see frontend readme or piazza post for all screenshots. This is the backend repository.**
 
 ---
 
